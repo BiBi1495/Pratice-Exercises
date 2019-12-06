@@ -1,0 +1,2 @@
+# Pratice-Exercises
+Some examples 
